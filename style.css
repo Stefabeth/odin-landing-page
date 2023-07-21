@@ -10,6 +10,8 @@ body {
     margin: 20px auto 10px auto;
 }
 
+/* Header Section */
+
 .header {
     color: white;
     display: flex;
@@ -37,4 +39,48 @@ body {
 .material-symbols-outlined {
     font-size: 24px;
     color: #f9faf8;
+}
+
+/* Hero Section */
+
+.hero {
+    display: flex;
+    margin: 100px 0;
+    justify-content: space-between;
+}
+
+.hero-left {
+    width: 450px;
+}
+
+.hero-right {
+
+    padding: 0 150px;
+    background-color: #6D747D;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    margin: 0;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 10px 0;
+}
+
+.hero-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+    padding: 10px 32px;
 }
