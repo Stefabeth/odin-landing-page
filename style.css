@@ -196,3 +196,10 @@ body {
     border-radius: 8px;
     font-weight: 900;
 }
+
+.footer {
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 18px;
+}
