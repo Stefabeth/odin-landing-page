@@ -52,6 +52,7 @@ body {
     margin: 100px 0;
     justify-content: space-between;
     padding-bottom: 40px;
+    flex-wrap: wrap;
 }
 
 .hero-left {
@@ -114,6 +115,7 @@ body {
     width: 100%;
     justify-content: space-around;
     padding-bottom: 100px;
+    flex-wrap: wrap;
 }
 
 .box-group {
@@ -174,6 +176,7 @@ body {
     display: flex;
     justify-content: space-around;
     padding: 50px;
+    flex-wrap: wrap;
 }
 
 .call-to-action-box h2,
